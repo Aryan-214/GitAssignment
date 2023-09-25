@@ -6,7 +6,7 @@ System.out.println("Static method");
 oddEven();
 }  
  public static void oddEven(){
-        int num = 4;
+        int num = 8;
 
         String evenOdd = (num % 2 == 0) ? "even" : "odd";
 
